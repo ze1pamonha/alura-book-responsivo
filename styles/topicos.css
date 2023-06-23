@@ -37,7 +37,7 @@
         background-color: var(--azul);
         }
         .botões__ancora:hover {
-            color: var(--azul);
+            background: var(--azul);
             }
 @media screen and (min-width: 1024px) {
     .tópicos__titulo {
